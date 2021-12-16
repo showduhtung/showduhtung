@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @showduhtung
-- 👀 I’m interested in programming, custom keyboards (tactile switches!) , and coffee (recommend me if I should get the Niche zero or not)
-- 🌱 I’m currently learning how to architect with Lerna!
+- 👀 I’m interested in programming, custom keyboards (tactile switches!), and coffee (recommend me if I should get the Niche zero or not)
+- 🌱 I’m currently learning how to architect with Lerna and React-bulletproof!
 - 📫 How to reach me- shaun.tung@gmail.com
 
 <!---
