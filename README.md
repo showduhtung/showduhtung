@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @showduhtung
-- 👀 I’m interested in programming, custom keyboards (team tactile), and espresso (recommend me if I should get the Niche zero or not)
+- 👀 I’m interested in programming, custom keyboards (team tactile), and espresso
 - 🌱 I’m currently learning how to architecture company repositories with Lerna and React-bulletproof and Web Components!
 - 📫 How to reach me- shaun.tung@gmail.com
 
